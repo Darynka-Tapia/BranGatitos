@@ -1,0 +1,15 @@
+body{
+	background: var(--black-color);
+	text-align: center;
+	color: var(--white-color);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+
+}
+
+/* 100vh -> sirve para decir que abarque toda la pantalla*/
+.content_pypal a{
+	color:var(--green-color);
+}
